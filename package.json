@@ -1,0 +1,19 @@
+{
+  "name": "hearty-datetime-helper",
+  "version": "1.0.0",
+  "description": "Hearty datetime helper is a small library that can provide small helper functions useful for date and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SrinivasNarayansetty/hearty-datetime-helper.git"
+  },
+  "author": "“Srinivas <“srinivas69cse@gmail.com”> (http://srinivasnarayansetty.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SrinivasNarayansetty/hearty-datetime-helper/issues"
+  },
+  "homepage": "https://github.com/SrinivasNarayansetty/hearty-datetime-helper#readme"
+}
