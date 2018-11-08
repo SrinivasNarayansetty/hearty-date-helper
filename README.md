@@ -1,4 +1,4 @@
-## hearty-datetime-helper [![NPM version](https://img.shields.io/npm/v/hearty-datetime-helper)](https://www.npmjs.com/package/hearty-datetime-helper)
+## hearty-datetime-helper [![NPM version](https://img.shields.io/npm/v/hearty-datetime-helper.svg)](https://www.npmjs.com/package/hearty-datetime-helper)
 Hearty datetime helper is a small library that can provide small helper functions useful for date and time.getMonthNameWithOrdinal, strToDate, isToday, daysdiff, etc,.
 
 
